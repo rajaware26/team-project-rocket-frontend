@@ -7,11 +7,11 @@ Attending:
 
 |Name               | Attending |
 |-------------------|-----------|
-| Nick Arlinghaus   | :heavy_check_mark:     |
-| Vitta Silberberg  | :heavy_check_mark:     |
-| Jack Butler       | :heavy_check_mark:     |
-| Raj Aware         | :heavy_check_mark:     |
-| Joshua Cain       | :heavy_check_mark:     |
+| Nick Arlinghaus   | :heavy_check_mark: |
+| Vitta Silberberg  | :heavy_check_mark: |
+| Jack Butler       | :heavy_check_mark: |
+| Raj Aware         | :heavy_check_mark: |
+| Joshua Cain       | :heavy_check_mark: |
 
 Meeting Summary: Discussed the GitHub Project, the layout of the project and repos, as well as the structure of the application. Determined it'd make more sense to do a web app as opposed to a client/server application. Created project table and views, added first issues.
 
