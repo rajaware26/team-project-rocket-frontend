@@ -1,0 +1,21 @@
+CURRENTLY EXISTING PAGES:
+
+  LOGIN PAGE: HTML, using a bootstrap to make page responsive on different devices, includes in-line JavaScript for CSS, multiple HTML classes.
+
+    PLANNED FUNCTIONALITY: Make login button properly connect a user to the homepage.
+
+  REGISTRATION PAGE: HTML, using a bootstrap to make page responsive on different devices, includes in-line JavaScript for CSS, multiple HTML classes.
+
+    PLANNED FUNCTIONALITY: Allow actual user registration, store data in database
+
+  HOME PAGE: HTML, using a bootstrap to make page responsive on different devices, has basic setup currently with a topnav menu
+  
+    PLANNED FUNCTIONALITY: Improve stylizing, expand top menu, present cards upfront, create sidenav menu, misc page functionality
+    
+
+BACKEND: SQL, holds user/card info
+
+  PLANNED FUNCTIONALITY: Connect it to the pages
+
+
+BUGS: n/a
